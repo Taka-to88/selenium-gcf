@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+
+selenium==3.13.0
